@@ -1,0 +1,19 @@
+label {
+    font-weight: 600;
+    color: #555;
+}
+.container {
+  background: dodgerblue;
+  margin: 50px;
+
+}
+.info {
+	padding-left: 140px;
+}
+form {
+	padding: 30px;
+}
+
+
+
+
